@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "c:\\work\\temp\\PocTeste\\PocTeste.csproj": {}
+    "C:\\work\\temp\\PocTeste\\PocTeste.csproj": {}
   },
   "projects": {
-    "c:\\work\\temp\\PocTeste\\PocTeste.csproj": {
+    "C:\\work\\temp\\PocTeste\\PocTeste.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "c:\\work\\temp\\PocTeste\\PocTeste.csproj",
+        "projectUniqueName": "C:\\work\\temp\\PocTeste\\PocTeste.csproj",
         "projectName": "PocTeste",
-        "projectPath": "c:\\work\\temp\\PocTeste\\PocTeste.csproj",
+        "projectPath": "C:\\work\\temp\\PocTeste\\PocTeste.csproj",
         "packagesPath": "C:\\Users\\silve\\.nuget\\packages\\",
-        "outputPath": "c:\\work\\temp\\PocTeste\\obj\\",
+        "outputPath": "C:\\work\\temp\\PocTeste\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"

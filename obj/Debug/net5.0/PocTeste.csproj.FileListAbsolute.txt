@@ -1,0 +1,16 @@
+C:\work\temp\PocTeste\bin\Debug\net5.0\PocTeste.exe
+C:\work\temp\PocTeste\bin\Debug\net5.0\PocTeste.deps.json
+C:\work\temp\PocTeste\bin\Debug\net5.0\PocTeste.runtimeconfig.json
+C:\work\temp\PocTeste\bin\Debug\net5.0\PocTeste.runtimeconfig.dev.json
+C:\work\temp\PocTeste\bin\Debug\net5.0\PocTeste.dll
+C:\work\temp\PocTeste\bin\Debug\net5.0\ref\PocTeste.dll
+C:\work\temp\PocTeste\bin\Debug\net5.0\PocTeste.pdb
+C:\work\temp\PocTeste\obj\Debug\net5.0\PocTeste.csprojAssemblyReference.cache
+C:\work\temp\PocTeste\obj\Debug\net5.0\PocTeste.GeneratedMSBuildEditorConfig.editorconfig
+C:\work\temp\PocTeste\obj\Debug\net5.0\PocTeste.AssemblyInfoInputs.cache
+C:\work\temp\PocTeste\obj\Debug\net5.0\PocTeste.AssemblyInfo.cs
+C:\work\temp\PocTeste\obj\Debug\net5.0\PocTeste.csproj.CoreCompileInputs.cache
+C:\work\temp\PocTeste\obj\Debug\net5.0\PocTeste.dll
+C:\work\temp\PocTeste\obj\Debug\net5.0\ref\PocTeste.dll
+C:\work\temp\PocTeste\obj\Debug\net5.0\PocTeste.pdb
+C:\work\temp\PocTeste\obj\Debug\net5.0\PocTeste.genruntimeconfig.cache
